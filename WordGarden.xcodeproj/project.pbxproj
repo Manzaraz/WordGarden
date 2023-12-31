@@ -53,6 +53,7 @@
 			children = (
 				611B8D6C2B41ABD0005B2AD1 /* WordGardenApp.swift */,
 				611B8D6E2B41ABD0005B2AD1 /* ContentView.swift */,
+				611B8D7A2B41B6C2005B2AD1 /* New Group */,
 				611B8D702B41ABD2005B2AD1 /* Assets.xcassets */,
 				611B8D722B41ABD2005B2AD1 /* Preview Content */,
 			);
@@ -65,6 +66,13 @@
 				611B8D732B41ABD2005B2AD1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		611B8D7A2B41B6C2005B2AD1 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
